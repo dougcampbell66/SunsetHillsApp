@@ -67,7 +67,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="C#.png" />
     <Content Include="Code.html" />
     <Content Include="Coding Challenge - Sunset Hills3.png" />
     <Content Include="Solve.html" />
