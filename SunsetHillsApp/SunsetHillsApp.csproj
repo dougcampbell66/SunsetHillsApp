@@ -67,8 +67,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Building11.png" />
+    <Content Include="Building12.png" />
+    <Content Include="Building144.png" />
+    <Content Include="Building26.png" />
+    <Content Include="Building27.png" />
+    <Content Include="Building38.png" />
+    <Content Include="Building43.png" />
+    <Content Include="Building50.png" />
+    <Content Include="Building55.png" />
+    <Content Include="Eifel.png" />
     <Content Include="Code.html" />
-    <Content Include="Coding Challenge - Sunset Hills3.png" />
+    <Content Include="sunset3.png" />
     <Content Include="Solve.html" />
     <Content Include="sunset.png" />
     <Content Include="favicon.png" />
