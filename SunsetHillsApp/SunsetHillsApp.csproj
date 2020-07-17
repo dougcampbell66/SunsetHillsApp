@@ -78,8 +78,10 @@
     <Content Include="Building55.png" />
     <Content Include="Eifel.png" />
     <Content Include="Code.html" />
+    <Content Include="KSolve.html" />
+    <Content Include="Solve2.html" />
     <Content Include="sunset3.png" />
-    <Content Include="Solve.html" />
+    <Content Include="Solve3.html" />
     <Content Include="sunset.png" />
     <Content Include="favicon.png" />
     <Content Include="Index.html" />
@@ -96,6 +98,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="scripts\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
