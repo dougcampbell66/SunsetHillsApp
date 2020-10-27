@@ -76,6 +76,7 @@
     <Content Include="Building43.png" />
     <Content Include="Building50.png" />
     <Content Include="Building55.png" />
+    <Content Include="dc.png" />
     <Content Include="Eifel.png" />
     <Content Include="Code.html" />
     <Content Include="Solve.html" />
